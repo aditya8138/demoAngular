@@ -2,7 +2,7 @@ version: 0.2
 
 env:
     variables:
-        S3_BUCKET: "test-cicd-karthik"
+        S3_BUCKET: "codepipeline-us-east-1-455883154041"
         #APP_NAME: "<APP_NAME_HERE>"
         BUILD_ENV : "prod"
 
